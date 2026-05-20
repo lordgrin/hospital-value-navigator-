@@ -1,1 +1,4 @@
-# Placeholder - replace with your actual requirements
+streamlit
+pandas
+numpy
+plotly
